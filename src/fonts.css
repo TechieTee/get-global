@@ -1,0 +1,11 @@
+/* fonts.css */
+
+
+@font-face {
+  font-family: 'Nominie';
+  src: url('./assets/fonts/Nominee-Regular_8cad7736.woff2') format('woff2'),
+
+       url('./assets/fonts/Nominie-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
