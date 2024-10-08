@@ -2,7 +2,7 @@
   "name": "build-visum",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://telesoftas.getglobal.africa/",
+  "homepage": "https://getglobal.getglobal.africa/",
   "dependencies": {
     "@faker-js/faker": "^8.1.0",
     "@headlessui/react": "^1.7.17",

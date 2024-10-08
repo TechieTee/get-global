@@ -62,7 +62,7 @@ Goal 10: Reduced Inequality
      By empowering underrepresented communities through employment.
 </div></div> 
       </div>
-      <a className="flex items-center justify-center" href="https://calendly.com/telesoftas-nigeria" target="_blank">
+      <a className="flex items-center justify-center" href="https://calendly.com/gideon-ibeabuchi-telesoftas/30min" target="_blank">
                 <button className="text-[14px] py-3 lg:px-6 lg:w-[50%] md:w-[50%] w-[80%] bg-black text-white border" >
                 Partner with Us for Social Impact
                 </button></a>

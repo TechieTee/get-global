@@ -25,7 +25,7 @@ const HowWeWork = () => {
                     <li className="text-[#595959] text-[18px] lg:text-[18px] font-normal mb-2 leading-loose lg:w-4/5">Projected to have the fastest-growing middle class, increasing demand for tech-driven solutions.</li>
                     <li className="text-[#595959] text-[18px] lg:text-[18px] font-normal  mb-2 leading-loose lg:w-4/5">Africa is seeing rapid growth in internet penetration, reaching over 43% of the population.</li>
        </ul>
-       <a href="https://calendly.com/telesoftas-nigeria" target="_blank">
+       <a href="https://calendly.com/gideon-ibeabuchi-telesoftas/30min" target="_blank">
                 <button className="text-[14px] py-3 lg:px-6 w-full bg-black text-white border" >
                 Learn More About Africa's Workforce Potential
                 </button></a>
@@ -33,7 +33,7 @@ const HowWeWork = () => {
        
                 </div>
               <div className="sm:px-[20px] ">
-              <img src={Image.work}  alt="logo" className="lg:w-full lg:h-[400px] md:w-full md:h-[400px] md:object-cover lg:object-cover rounded-[30px]"/> 
+              <img src={Image.work1}  alt="logo" className="lg:w-full lg:h-[400px] md:w-full md:h-[400px] md:object-cover lg:object-cover rounded-[30px]"/> 
             
               </div>
             </div>
@@ -44,7 +44,7 @@ const HowWeWork = () => {
           <div className="lg:px-36 lg:py-16 md:px-24 md:py-16 px-[20px] py-[20px] bg-[#F5F8FF] w-full" id="about">
             <div className="flex flex-col items-center justify-center lg:grid lg:grid-cols-2 md:grid-cols-1 sm:grid-cols-1 w-full">
             <div className="sm:px-[20px] ">
-              <img src={Image.work}  alt="logo" className="lg:w-full lg:h-[400px] md:w-full md:h-[400px] md:object-cover lg:object-cover rounded-[30px]"/> 
+              <img src={Image.work2}  alt="logo" className="lg:w-full lg:h-[400px] md:w-full md:h-[400px] md:object-cover lg:object-cover rounded-[30px]"/> 
             
               </div>
               
@@ -68,7 +68,7 @@ const HowWeWork = () => {
                     <li className="text-[#595959] text-[18px] lg:text-[18px] font-normal  mb-2 leading-loose lg:w-4/5"><span className="font-bold">BPO Specialization:</span>  BPO Specialization: Our talent is specifically trained in customer service, tech support, data entry, and other critical BPO functions.</li>
       
        </ul>
-       <a href="https://calendly.com/telesoftas-nigeria" target="_blank">
+       <a href="https://calendly.com/gideon-ibeabuchi-telesoftas/30min" target="_blank">
                 <button className="text-[14px] py-3 lg:px-6 w-full bg-black text-white border" >
                 Discover Our BPO Support Packages
                 </button></a>
@@ -106,7 +106,7 @@ const HowWeWork = () => {
                     <li className="text-[#595959] text-[18px] lg:text-[18px] font-normal  mb-2 leading-loose lg:w-4/5"><span className="font-bold">Job-Ready Talent:</span>   Our graduates are primed to deliver from day one, whether in customer service, data management, or technical roles.</li>
                     <li className="text-[#595959] text-[18px] lg:text-[18px] font-normal  mb-2 leading-loose lg:w-4/5"><span className="font-bold">Continuous Upskilling:</span>  We offer ongoing training to ensure that your workforce evolves with industry trends and new technologies.</li>
                     </ul>
-       <a href="https://calendly.com/telesoftas-nigeria" target="_blank">
+       <a href="https://calendly.com/gideon-ibeabuchi-telesoftas/30min" target="_blank">
                 <button className="text-[14px] py-3 lg:px-6 w-full bg-black text-white border" >
                 Learn About Our Training Programs
                 </button></a>
@@ -114,7 +114,7 @@ const HowWeWork = () => {
        
                 </div>
               <div className="sm:px-[20px] ">
-              <img src={Image.work}  alt="logo" className="lg:w-full lg:h-[400px] md:w-full md:h-[400px] md:object-cover lg:object-cover rounded-[30px]"/> 
+              <img src={Image.work3}  alt="logo" className="lg:w-full lg:h-[400px] md:w-full md:h-[400px] md:object-cover lg:object-cover rounded-[30px]"/> 
             
               </div>
             </div>

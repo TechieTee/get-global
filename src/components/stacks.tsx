@@ -15,7 +15,7 @@ const Stacks = () => {
           <h4 className="ml-6 text-[#595959] text-[18px] lg:w-2/3 font-normal  leading-[27px] pb-4">
           Building feature-rich, responsive web applications using the latest technologies.
           </h4>
-          <a href="https://calendly.com/telesoftas-nigeria" target="_blank">
+          <a href="https://calendly.com/gideon-ibeabuchi-telesoftas/30min" target="_blank">
           <button className=" mb-4 absolute opacity-0 group-hover:opacity-100 transition-opacity duration-300 ml-6 text-[12px] text-[1rem] py-2 px-4 bg-black text-white" >
             Read More
           </button></a>
@@ -29,7 +29,7 @@ const Stacks = () => {
             02
           </div>
           <h4 className="ml-6 text-[#595959] text-[18px] lg:w-2/3 font-normal  leading-[27px] pb-4">Creating engaging, user-friendly mobile apps for iOS and Android platforms.</h4>
-          <a href="https://calendly.com/telesoftas-nigeria" target="_blank">
+          <a href="https://calendly.com/gideon-ibeabuchi-telesoftas/30min" target="_blank">
           <button className=" mb-4 absolute opacity-0 group-hover:opacity-100 transition-opacity duration-300 ml-6 text-[12px] text-[1rem] py-2 px-4 bg-black text-white" >
             Read More
           </button></a>
@@ -46,7 +46,7 @@ const Stacks = () => {
     03
   </div>
   <h4 className="ml-6 text-[#595959] text-[18px] lg:w-2/3 font-normal  leading-[27px] pb-4">Leveraging cloud infrastructure to build scalable, secure, and cost-effective applications.</h4>
-  <a href="https://calendly.com/telesoftas-nigeria" target="_blank">
+  <a href="https://calendly.com/gideon-ibeabuchi-telesoftas/30min" target="_blank">
           <button className=" mb-4 absolute opacity-0 group-hover:opacity-100 transition-opacity duration-300 ml-6 text-[12px] text-[1rem] py-2 px-4 bg-black text-white" >
             Read More
           </button></a>
@@ -60,7 +60,7 @@ const Stacks = () => {
     04
   </div>
   <h4 className="ml-6 text-[#595959] text-[18px] lg:w-2/3 font-normal  leading-[27px] pb-4">Harnessing the power of Al to create intelligent solutions that solve complex business problems.</h4>
-  <a href="https://calendly.com/telesoftas-nigeria" target="_blank">
+  <a href="https://calendly.com/gideon-ibeabuchi-telesoftas/30min" target="_blank">
           <button className=" mb-4 absolute opacity-0 group-hover:opacity-100 transition-opacity duration-300 ml-6 text-[12px] text-[1rem] py-2 px-4 bg-black text-white" >
             Read More
           </button></a>
@@ -78,7 +78,7 @@ const Stacks = () => {
     05
   </div>
   <h4 className="ml-6 text-[#595959] text-[18px] lg:w-2/3 lg:w-2/3 font-normal  leading-[27px] pb-4">Helping businesses modernise their processes and systems to stay competitive in the digital age.</h4>
-  <a href="https://calendly.com/telesoftas-nigeria" target="_blank">
+  <a href="https://calendly.com/gideon-ibeabuchi-telesoftas/30min" target="_blank">
           <button className=" mb-4 absolute opacity-0 group-hover:opacity-100 transition-opacity duration-300 ml-6 text-[12px] text-[1rem] py-2 px-4 bg-black text-white" >
             Read More
           </button></a>
@@ -93,7 +93,7 @@ const Stacks = () => {
     06
   </div>
   <h4 className="ml-6 text-[#595959] text-[18px] lg:w-2/3 font-normal  leading-[27px] pb-4">Data Management: Implementing robust data strategies to ensure efficient storage, retrieval, and analysis of data.</h4>
-  <a href="https://calendly.com/telesoftas-nigeria" target="_blank">
+  <a href="https://calendly.com/gideon-ibeabuchi-telesoftas/30min" target="_blank">
           <button className=" mb-4 absolute opacity-0 group-hover:opacity-100 transition-opacity duration-300 ml-6 text-[12px] text-[1rem] py-2 px-4 bg-black text-white" >
             Read More
           </button></a>

@@ -65,7 +65,7 @@ const Contact = () => {
 <h4 className="text-[#595959] text-center text-[14px] font-normal  leading-[27px]">We invite you to explore how GetGlobal can become your partner in talent acquisition and BPO expansion. Whether you're a global tech giant looking to scale or an NGO focused on job creation, our tailored solutions can meet your needs.</h4>
 
        
-<a href="https://calendly.com/telesoftas-nigeria" target="_blank">
+<a href="https://calendly.com/gideon-ibeabuchi-telesoftas/30min" target="_blank">
           <button
             // isLoading={isSubmitting}
             className="lg:w-[100%] w-[100%] md:w-full sm:w-full bg-black text-white font-bold h-[45px] lg:text-[14px] text-[10px]  font-meduim px-4"
@@ -76,7 +76,7 @@ const Contact = () => {
 
 
 
-          <a href="https://calendly.com/telesoftas-nigeria" target="_blank">
+          <a href="https://calendly.com/gideon-ibeabuchi-telesoftas/30min" target="_blank">
           <button
             // isLoading={isSubmitting}
             className="lg:w-[100%] w-[100%] md:w-full sm:w-full bg-black text-white font-bold h-[45px] lg:text-[14px] text-[10px]  font-meduim px-4"
@@ -87,7 +87,7 @@ const Contact = () => {
 
 
 
-          <a href="https://calendly.com/telesoftas-nigeria" target="_blank">
+          <a href="https://calendly.com/gideon-ibeabuchi-telesoftas/30min" target="_blank">
           <button
             // isLoading={isSubmitting}
             className="lg:w-[100%] w-[100%] md:w-full sm:w-full bg-black text-white font-bold h-[45px] lg:text-[14px] text-[10px]  font-meduim px-4"
