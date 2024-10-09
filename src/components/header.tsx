@@ -10,7 +10,7 @@ import { IoBagOutline } from "react-icons/io5";
 const Header = () => {
   const navItems = [
     { name: "About Us", link: "/#about" },
-    { name: "Our Expertise", link: "/#expertise" },
+    // { name: "Our Expertise", link: "/#expertise" },
     { name: "Contact Us", link: "/#contact" }
   ];
   
