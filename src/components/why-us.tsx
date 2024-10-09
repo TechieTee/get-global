@@ -18,8 +18,8 @@ const WhyUs = () => {
       <div className="w-32 h-32 rounded-full bg-gradient-to-r from-pink-500 via-yellow-500 to-blue-500 p-1">
         <div className="w-full h-full bg-white rounded-full"></div>
       </div>
-    </div> <p className="text-[#404040] text-[24px] font-bold text-center leading-[35px]">Goal 1: No Poverty</p>
-          <div className="text-[#595959] lg:mb-0 md:mb-0 mb-8 text-[14px] text-center leading-[30px]" >
+    </div> <p className="text-[#404040] text-[20px] font-bold text-center leading-[35px]">Goal 1: No Poverty</p>
+          <div className="text-[#595959] lg:mb-0 md:mb-0 mb-8 text-[16px] text-center leading-[30px]" >
           By creating job opportunities for underprivileged demographics.
 </div>
         </div>
@@ -28,8 +28,8 @@ const WhyUs = () => {
       <div className="w-32 h-32 rounded-full bg-gradient-to-r from-pink-500 via-yellow-500 to-blue-500 p-1">
         <div className="w-full h-full bg-white rounded-full"></div>
       </div>
-    </div> <p className="text-[#404040] text-[24px] font-bold text-center leading-[35px]">Goal 4: Quality Education</p>
-          <div className="text-[#595959] lg:mb-0 md:mb-0 mb-8 text-[14px] text-center leading-[30px]" >
+    </div> <p className="text-[#404040] text-[20px] font-bold text-center leading-[35px]">Goal 4: Quality Education</p>
+          <div className="text-[#595959] lg:mb-0 md:mb-0 mb-8 text-[16px] text-center leading-[30px]" >
           By offering world-class tech training to underserved communities.
 
           </div>
@@ -39,9 +39,9 @@ const WhyUs = () => {
       <div className="w-32 h-32 rounded-full bg-gradient-to-r from-pink-500 via-yellow-500 to-blue-500 p-1">
         <div className="w-full h-full bg-white rounded-full"></div>
       </div>
-    </div> <p className="text-[#404040] text-[24px] font-bold text-center leading-[35px]">
+    </div> <p className="text-[#404040] text-[20px] font-bold text-center leading-[35px]">
     Goal 8: Decent Work and Economic Growth </p>
-          <div className="text-[#595959] lg:mb-0 md:mb-0 mb-8 text-[14px] text-center leading-[30px]" >
+          <div className="text-[#595959] lg:mb-0 md:mb-0 mb-8 text-[16px] text-center leading-[30px]" >
           By fostering sustainable livelihoods through decent jobs.
   </div>
         </div>
@@ -54,16 +54,16 @@ const WhyUs = () => {
         <div className="w-full h-full bg-white rounded-full"></div>
       </div>
     </div>
-          <p className="text-[#404040] text-[24px] font-bold text-center leading-[35px]">
+          <p className="text-[#404040] text-[20px] font-bold text-center leading-[35px]">
           through decent jobs.
 Goal 10: Reduced Inequality
 </p>
-          <div className="text-[#595959] lg:mb-0 md:mb-0 mb-8 text-[14px] text-center leading-[30px]" >
+          <div className="text-[#595959] lg:mb-0 md:mb-0 mb-8 text-[16px] text-center leading-[30px]" >
      By empowering underrepresented communities through employment.
 </div></div> 
       </div>
       <a className="flex items-center justify-center" href="https://calendly.com/gideon-ibeabuchi-telesoftas/30min" target="_blank">
-                <button className="text-[14px] py-3 lg:px-6 lg:w-[50%] md:w-[50%] w-[80%] bg-black text-white border" >
+                <button className="text-[14px] py-3 lg:px-6 mt-6 bg-black text-white border" >
                 Partner with Us for Social Impact
                 </button></a>
 

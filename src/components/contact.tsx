@@ -48,23 +48,21 @@ const Contact = () => {
         <div className=" flex items-center justify-center flex-col gap-y-6  "
         // onSubmit={handleSubmit(onSubmit)}
         >
-          <h2 className="text-black text-2xl lg:text-left md:text-left text-center lg:text-[30px] font-bold leading-[60px] mb-4">
+          <h2 className="text-black text-2xl  text-center lg:text-[40px] font-bold leading-[60px] ">
           Ready to Partner with Us?
 
           </h2>
 
-          <h2 className="text-black text-[18px] lg:text-left md:text-left text-center lg:text-[22px] font-bold leading-[60px] mb-4">
+          <h2 className="text-black text-[18px] text-center lg:text-[22px] font-bold leading-[30px] ">
           Take the First Step Towards Expanding Your BPO Operations in Africa
 
           </h2>
 
         
-          <h4 className="text-[#595959] text-center text-[14px] font-normal  leading-[27px]">
-          Take the First Step Towards Expanding Your BPO Operations in Africa
-</h4>
-<h4 className="text-[#595959] text-center text-[14px] font-normal  leading-[27px]">We invite you to explore how GetGlobal can become your partner in talent acquisition and BPO expansion. Whether you're a global tech giant looking to scale or an NGO focused on job creation, our tailored solutions can meet your needs.</h4>
 
-       
+<h4 className="text-[#595959] text-center text-[18px] font-normal  leading-[30px]">We invite you to explore how GetGlobal can become your partner in talent acquisition and BPO expansion. Whether you're a global tech giant looking to scale or an NGO focused on job creation, our tailored solutions can meet your needs.</h4>
+
+<div className="flex gap-8 mt-8">    
 <a href="https://calendly.com/gideon-ibeabuchi-telesoftas/30min" target="_blank">
           <button
             // isLoading={isSubmitting}
@@ -95,7 +93,7 @@ const Contact = () => {
             Contact Us for More Information
           </button>
           </a>
-        </div>
+        </div>    </div>
 
       </div>
 

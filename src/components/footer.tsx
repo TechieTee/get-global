@@ -38,10 +38,10 @@ const Footer = () => {
     <>
       <div className="bg-white lg:px-36 lg:py-16 md:px-24 md:py-16 px-[20px] py-[20px] w-full">
         <div className="grid gap-6 lg:grid-cols-2 md:grid-cols-1 sm:grid-cols-1">
-          <div className="grid lg:grid-cols-1 ">
-          <img src={Image.logo} width={170} alt="logo"/> 
+          <div className="grid lg:grid-cols-1">
+          <img src={Image.logo} width={200} alt="logo"/> 
 
-            <p className="text-[#595959] text-[14px] font-normal  mt-2 lg:w-3/5 leading-[28px]">
+            <p className="text-[#595959] text-[14px] font-normal  ml-4 mt-2 lg:w-3/5 leading-[28px]">
             At GetGlobal, we are not just about business. We are committed to making a lasting social impact by providing meaningful employment to underserved communities.
             </p>
 
@@ -73,10 +73,10 @@ const Footer = () => {
             <div className="grid-cols-1">
 
               <div className="text-[#595959] text-[14px] mb-2 font-normal leading-[28px]">
-              Phone Number: +2347010989296 , +234 802 965 1969
+         <span className="font-bold ">         Phone Number : </span>  <br/>  +2347010989296 , +234 802 965 1969
               </div>
               <div className="text-[#595959] text-[14px] mb-2 font-normal leading-[28px]">
-              Email Address : jane.odonwodo@telesoftas.com, gideon.ibeabuchi@telesoftas.com 
+              <span className="font-bold ">Email Address : </span>  <br/>  jane.odonwodo@telesoftas.com, gideon.ibeabuchi@telesoftas.com 
               </div>
             
             </div>
@@ -103,7 +103,7 @@ const Footer = () => {
               onChange={(e) => setEmail(e.target.value)}
               required
               placeholder="email"
-              className="text-black text-left text-[12px] border border-1 border-black p-1 w-full"
+              className="text-black text-left text-[12px] border border-1 border-grey p-1 w-full"
            
             />
           </label>
