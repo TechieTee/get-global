@@ -63,7 +63,7 @@ Goal 10: Reduced Inequality
 </div></div> 
       </div>
       <a className="flex items-center justify-center" href="https://calendly.com/gideon-ibeabuchi-telesoftas/30min" target="_blank">
-                <button className="text-[14px] py-3 lg:px-6 mt-6 bg-black text-white border" >
+                <button className="text-[14px] py-3 px-6 mt-6 bg-black text-white border" >
                 Partner with Us for Social Impact
                 </button></a>
 

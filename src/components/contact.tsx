@@ -62,7 +62,7 @@ const Contact = () => {
 
 <h4 className="text-[#595959] text-center text-[18px] font-normal  leading-[30px]">We invite you to explore how GetGlobal can become your partner in talent acquisition and BPO expansion. Whether you're a global tech giant looking to scale or an NGO focused on job creation, our tailored solutions can meet your needs.</h4>
 
-<div className="flex gap-8 mt-8">    
+<div className="flex lg:flex-row md:flex-row flex-col gap-8 mt-8">    
 <a href="https://calendly.com/gideon-ibeabuchi-telesoftas/30min" target="_blank">
           <button
             // isLoading={isSubmitting}

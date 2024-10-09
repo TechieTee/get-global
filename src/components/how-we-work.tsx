@@ -37,8 +37,8 @@ const HowWeWork = () => {
                     <li className="text-[#595959] text-[18px] lg:text-[18px] font-normal mb-2 leading-loose lg:w-4/5">Projected to have the fastest-growing middle class, increasing demand for tech-driven solutions.</li>
                     <li className="text-[#595959] text-[18px] lg:text-[18px] font-normal  mb-2 leading-loose lg:w-4/5">Africa is seeing rapid growth in internet penetration, reaching over 43% of the population.</li>
        </ul>
-       <a href="https://calendly.com/gideon-ibeabuchi-telesoftas/30min" target="_blank">
-                <button className="text-[14px] py-3 lg:px-6 mt-8 bg-black text-white border" >
+       <a href="https://calendly.com/gideon-ibeabuchi-telesoftas/30min" target="_blank" className="flex  lg:items-center lg:justify-start md:items-center md:justify-start sm:items-center sm:justify-center ">
+                    <button className="text-[14px] py-3 px-6 mt-8 bg-black text-white border" >
                 Learn More About Africa's Workforce Potential
                 </button></a> 
 </div>
@@ -79,8 +79,8 @@ const HowWeWork = () => {
                     <li className="text-[#595959] text-[18px] lg:text-[18px] font-normal  mb-2 leading-loose lg:w-4/5"><span className="font-bold">BPO Specialization:</span>  BPO Specialization: Our talent is specifically trained in customer service, tech support, data entry, and other critical BPO functions.</li>
       
        </ul>
-       <a href="https://calendly.com/gideon-ibeabuchi-telesoftas/30min" target="_blank">
-                <button className="text-[14px] py-3 lg:px-6 mt-8 bg-black text-white border" >
+       <a href="https://calendly.com/gideon-ibeabuchi-telesoftas/30min" target="_blank" className="flex  lg:items-center lg:justify-start md:items-center md:justify-start sm:items-center sm:justify-center ">
+                   <button className="text-[14px] py-3 px-6 mt-8 bg-black text-white border" >
                 Discover Our BPO Support Packages
                 </button></a>
            </div>
@@ -123,8 +123,8 @@ const HowWeWork = () => {
                     <li className="text-[#595959] text-[18px] lg:text-[18px] font-normal  mb-2 leading-loose lg:w-4/5"><span className="font-bold">Job-Ready Talent:</span>   Our graduates are primed to deliver from day one, whether in customer service, data management, or technical roles.</li>
                     <li className="text-[#595959] text-[18px] lg:text-[18px] font-normal  mb-2 leading-loose lg:w-4/5"><span className="font-bold">Continuous Upskilling:</span>  We offer ongoing training to ensure that your workforce evolves with industry trends and new technologies.</li>
                     </ul>
-       <a href="https://calendly.com/gideon-ibeabuchi-telesoftas/30min" target="_blank">
-                <button className="text-[14px] py-3 lg:px-6 mt-8 bg-black text-white border" >
+                    <a href="https://calendly.com/gideon-ibeabuchi-telesoftas/30min" target="_blank" className="flex  lg:items-center lg:justify-start md:items-center md:justify-start sm:items-center sm:justify-center ">
+                 <button className="text-[14px] py-3 px-6 mt-8 bg-black text-white border" >
                 Learn About Our Training Programs
                 </button></a>
           </div>
