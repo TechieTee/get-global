@@ -36,20 +36,20 @@ const Footer = () => {
 
   return (
     <>
-      <div className="bg-white lg:px-36 lg:py-16 md:px-24 md:py-16 px-[20px] py-[20px] w-full">
+      <div className="bg-white lg:px-24 lg:py-16 md:px-16 md:py-16 px-[20px] py-[20px] w-full">
         <div className="grid gap-6 lg:grid-cols-2 md:grid-cols-1 sm:grid-cols-1">
           <div className="grid lg:grid-cols-1">
           <img src={Image.logo} width={200} alt="logo"/> 
 
-            <p className="text-[#595959] text-[14px] font-normal  ml-4 mt-2 lg:w-3/5 leading-[28px]">
+            <p className="text-[#595959] text-[14px] font-normal  pl-4 mt-2 lg:w-3/5 leading-[28px]">
             At GetGlobal, we are not just about business. We are committed to making a lasting social impact by providing meaningful employment to underserved communities.
             </p>
 
           </div>
-          <div className="grid gap-6 lg:grid-cols-2 ">
+          <div className="grid gap-4 lg:grid-cols-2 ">
 
 
-            <div className="grid-cols-1">
+            <div className="grid-cols-1 pl-4">
 
               <div className="flex items-start justify-start mb-2 text-[14px] font-bold text-black">
                 Stay Tuned:
@@ -70,7 +70,7 @@ const Footer = () => {
 
             </div>
 
-            <div className="grid-cols-1">
+            <div className="grid-cols-1 pl-4">
 
               <div className="text-[#595959] text-[14px] mb-2 font-normal leading-[28px]">
          <span className="font-bold ">         Phone Number : </span>  <br/>  +2347010989296 , +234 802 965 1969
