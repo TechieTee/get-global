@@ -2,7 +2,7 @@ import { Image } from "../assets/index";
 const WhyUs = () => {
   return (
 
-    <div className="lg:px-36 lg:py-16 md:px-24 md:py-16 px-[20px] py-[20px] bg-black grid gap-8" >
+    <div className="lg:px-36 lg:py-16 md:px-24 md:py-16 px-[20px] py-[20px] bg-black grid gap-8 pt-8" >
       <h2 className="sm:pt-4 text-white  text-3xl text-center lg:text-5xl  font-bold leading-normal">
       Our Commitment to Social Impact
                   </h2>

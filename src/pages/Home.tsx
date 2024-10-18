@@ -8,6 +8,7 @@ import SubViewPort from "../components/sub-view-port";
 import Technologies from "../components/technologies";
 import ViewPort from "../components/view-port";
 import WhyUs from "../components/why-us";
+import Success from "./Success";
 
 
 
@@ -22,10 +23,13 @@ const Home = () => {
  {/* <Stacks/> */}
  <HowWeWork />
  
-  <WhyUs/> 
+  <Success/>
+  <Contact />
+  <WhyUs/>
+  
   {/* <Technologies /> */}
 
- <Contact />
+
  
   <Footer/>  
 
