@@ -37,7 +37,7 @@ const Success = () => {
                 Proven Results with International BPOs
             </h2>
             <h4 className="text-white text-center text-[18px] mb-4 font-normal leading-[28px] lg:leading-[33px] md:leading-[33px]">
-                In partnership with a leading CGI BPO company, GetGlobal successfully trained 12 Junior 3D artists to meet the client’s specific needs. Through a tailored program, these artists gained the technical and practical skills required in the fast-paced CGI industry. They are now transitioning into paid internships, ready to contribute directly to the client’s projects.
+                In partnership with a leading CGI BPO company, GetGlobal successfully trained 12 Junior 3D artists to meet the client’s specific needs. Through a tailored program, these artists gained the technical and practical skills required in the fast-paced CGI industry. <br/> They are now transitioning into paid internships, ready to contribute directly to the client’s projects.
                 This marks a significant success in our Talent Refinery model, showcasing our ability to source, train, and deliver job-ready talent to global markets.
             </h4>
             <div className="">
@@ -45,7 +45,7 @@ const Success = () => {
                     {cards.map((card, index) => (
                         <div
                             key={index}
-                            className={`bg-black-500 bg-opacity-50 p-[20px] value-Container   relative  md:w-[360px] cursor-pointer overflow-hidden h-[150px] md:h-[150px] rounded-3xl  card group transition duration-800 ease-in-out ${hoverColors[index % hoverColors.length]}`}
+                            className={`bg-black-500 bg-opacity-50 p-[3px] lg:p-[20px] md:p-[20px] value-Container   relative  md:w-[360px] cursor-pointer overflow-hidden h-[150px] md:h-[150px] rounded-3xl  card group transition duration-800 ease-in-out ${hoverColors[index % hoverColors.length]}`}
                         >
 
                             <p className="text-white  font-bold  text-[24px] text-subheading duration-[350ms] text-nowrap font-openSans mx-2 lg:mx-0 absolute top-[50%] group-hover:top-[50%]   sm:group-hover:top-[50%] sm:group-hover:left-[50%] left-[50%] group-hover:translate-y-[-80%] group-hover:translate-x-[-50%] translate-y-[-50%] translate-x-[-50%]">
@@ -75,7 +75,7 @@ const Success = () => {
                 <div className="bg-[#E9EAEC] border border-[#E2E7ED] rounded-3xl p-7">
                     <p className="mb-8 leading-8 text-[#6C7275] text-[16px] font-normal">
                         {`Our Digital Explorers team had a wonderful time in Lagos, or as the locals call it - Eko! Kristijanas Kaminskis, Egle Dmukauskaite, Aušrinė Vilčinskaitė, Berk Erdem, and Ieva Felman - our Baltic team, had a genuine and fun witted time with participants, throughout the DE II selection bootcamp, mixed with the local businesses and got the chance to experience Lagos from many different angles. 💻 🏖️🎨
-All of this couldn’t have happened without our trusty partner GetGlobal by TeleSoftas, who not only guided us through the busy streets of Lagos but made sure that the official kick-off of the Digital Explorers II journey in Nigeria went perfectly well! Kudos to Jane Odonwodo, Emmanuel Mimshach Obioha, Sandra Edeh, Ibeabuchi Gideon CSM®, Sharon-Rose Banjo-Ogunleye!`}
+<br/>All of this couldn’t have happened without our trusty partner GetGlobal by TeleSoftas, who not only guided us through the busy streets of Lagos but made sure that the official kick-off of the Digital Explorers II journey in Nigeria went perfectly well! Kudos to Jane Odonwodo, Emmanuel Mimshach Obioha, Sandra Edeh, Ibeabuchi Gideon CSM®, Sharon-Rose Banjo-Ogunleye!`}
                     </p>
                     <span className="block text-sm text-[#6C7275] font-semibold">
                         – Digital Explorers Team - OSMOS
