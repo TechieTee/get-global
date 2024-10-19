@@ -64,7 +64,7 @@ const Success = () => {
             <div className=" flex flex-col md:flex-col lg:flex-row  items-center gap-4">
                 <div className="bg-[#E9EAEC] border border-[#E2E7ED] rounded-3xl p-7">
                     <p className="mb-8 leading-8 text-[#6C7275] text-[16px] font-normal">
-                        {`Thanks to GetGlobal, we seamlessly sourced, onboarded , trained and now placed junior 3D Artists from Africa. The integration was smooth, and the results have exceeded our expectations.`}
+                        {`Thanks to GetGlobal, we seamlessly sourced, onboarded, trained and now placed junior 3D Artists from Africa. The integration was smooth, and the results have exceeded our expectations.`}
                     </p>
 
                     <span className="block text-sm text-[#6C7275] font-semibold">
