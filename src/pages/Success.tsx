@@ -48,10 +48,10 @@ const Success = () => {
                             className={`bg-black-500 bg-opacity-50 p-[3px] lg:p-[20px] md:p-[20px] value-Container   relative  md:w-[360px] cursor-pointer overflow-hidden h-[150px] md:h-[150px] rounded-3xl  card group transition duration-800 ease-in-out ${hoverColors[index % hoverColors.length]}`}
                         >
 
-                            <p className="text-white  font-bold  text-[24px] text-subheading duration-[350ms] text-nowrap font-openSans mx-2 lg:mx-0 absolute top-[50%] group-hover:top-[50%]   sm:group-hover:top-[50%] sm:group-hover:left-[50%] left-[50%] group-hover:translate-y-[-80%] group-hover:translate-x-[-50%] translate-y-[-50%] translate-x-[-50%]">
+                            <p className="text-white  font-bold  text-[20px] lg:text-[24px] md:text-[24px]  duration-[350ms] text-nowrap font-openSans mx-2 lg:mx-0 absolute top-[50%] group-hover:top-[50%]   sm:group-hover:top-[50%] sm:group-hover:left-[50%] left-[50%] group-hover:translate-y-[-80%] group-hover:translate-x-[-50%] translate-y-[-50%] translate-x-[-50%]">
                                 {card.title}
                             </p>
-                            <p className="text-white font-bold text-[18px] text-subheading duration-[350ms] text-nowrap font-openSans mx-2 lg:mx-0 absolute top-[72%] group-hover:top-[72%] sm:group-hover:top-[70%] sm:group-hover:left-[50%] left-[50%] group-hover:translate-y-[-80%] group-hover:translate-x-[-50%] translate-y-[-50%] translate-x-[-50%]">
+                            <p className="text-white font-bold text-[14px] lg:text-[18px] md:text-[18px]  duration-[350ms] text-nowrap font-openSans mx-2 lg:mx-0 absolute top-[72%] group-hover:top-[72%] sm:group-hover:top-[70%] sm:group-hover:left-[50%] left-[50%] group-hover:translate-y-[-80%] group-hover:translate-x-[-50%] translate-y-[-50%] translate-x-[-50%]">
                                 {card.description}
                             </p>
 
