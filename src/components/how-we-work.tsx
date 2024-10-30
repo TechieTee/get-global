@@ -14,8 +14,7 @@ const HowWeWork = () => {
                   The Next Frontier in Global Outsourcing
                   </h2>
                   <h4 className="text-[#595959] text-[18px] lg:text-left text-center lg:text-[18px] font-normal mt-4 mb-8 leading-[30px] lg:w-4/5 w-full">
-                  Africa’s rapidly growing tech ecosystem, young talent pool, and expanding infrastructure make it the ideal destination for BPO companies looking to scale globally. By tapping into Africa’s skilled workforce, your business can reduce operational costs while driving innovation and maintaining high-quality standards.
-
+                  Africa’s young workforce, growing tech ecosystem, and rising internet access make it ideal for BPO, driving innovation and cost savings.
                   </h4>
                 
 
@@ -34,8 +33,8 @@ const HowWeWork = () => {
                   </h4>
                   <ul className="list-disc mt-4 pl-8 lg:mb-0 md:mb-0 md:mb-8 mb-8">
                     <li className="text-[#595959] text-[18px] lg:text-[18px] font-normal  mb-2 leading-loose lg:w-4/5">Over 60% of Africa’s population is under 25, making it the youngest workforce in the world.</li>
-                    <li className="text-[#595959] text-[18px] lg:text-[18px] font-normal mb-2 leading-loose lg:w-4/5">Projected to have the fastest-growing middle class, increasing demand for tech-driven solutions.</li>
-                    <li className="text-[#595959] text-[18px] lg:text-[18px] font-normal  mb-2 leading-loose lg:w-4/5">Africa is seeing rapid growth in internet penetration, reaching over 43% of the population.</li>
+                    <li className="text-[#595959] text-[18px] lg:text-[18px] font-normal mb-2 leading-loose lg:w-4/5">Africa is projected to have the fastest-growing middle class, driving demand for tech-driven solutions.</li>
+                    <li className="text-[#595959] text-[18px] lg:text-[18px] font-normal  mb-2 leading-loose lg:w-4/5">Internet penetration in Africa is rapidly increasing, reaching over 43% of the population.</li>
        </ul>
        <a href="https://calendly.com/gideon-ibeabuchi-telesoftas/30min" target="_blank" className="flex  lg:items-center lg:justify-start md:items-center md:justify-start items-center justify-center ">
                     <button className="text-[14px] py-3 px-6 mt-8 bg-black text-white border" >
@@ -62,7 +61,7 @@ const HowWeWork = () => {
                    Custom Workforce Solutions to Drive Your BPO Success
                   </h2>
                   <h4 className="text-[#595959] text-[18px] lg:text-left text-center lg:text-[18px] font-normal mt-4 mb-8 leading-[30px] lg:w-4/5 w-full">
-                  At GetGlobal by TeleSoftas, we specialize in aligning international BPO companies with top African talent. Our tailored solutions ensure your operations run smoothly, efficiently, and with the right skills to meet your business demands.
+                  GetGlobal by TeleSoftas connects international BPO firms with top African talent, ensuring smooth, efficient operations tailored to your needs.
                   </h4>
                   
 
@@ -73,10 +72,10 @@ const HowWeWork = () => {
               Key Features:
                   </h4>
                   <ul className="list-disc mt-4 pl-8 lg:mb-0 md:mb-0 md:mb-8 mb-8">
-                    <li className="text-[#595959] text-[18px] lg:text-[18px] font-normal  mb-2 leading-loose lg:w-4/5"><span className="font-bold">Custom Talent Development:</span> We work backward from your specific job needs, training African professionals in the exact skills you require.</li>
-                    <li className="text-[#595959] text-[18px] lg:text-[18px] font-normal  mb-2 leading-loose lg:w-4/5"><span className="font-bold">Scalable Workforce:</span>  Whether you need 10 or 100 employees, we provide talent that’s ready to scale with your business.</li>
-                    <li className="text-[#595959] text-[18px] lg:text-[18px] font-normal  mb-2 leading-loose lg:w-4/5"><span className="font-bold">End-to-End Support:</span>  From recruitment and onboarding to performance management, we handle every aspect of talent acquisition and development.</li>
-                    <li className="text-[#595959] text-[18px] lg:text-[18px] font-normal  mb-2 leading-loose lg:w-4/5"><span className="font-bold">BPO Specialization:</span>  BPO Specialization: Our talent is specifically trained in customer service, tech support, data entry, and other critical BPO functions.</li>
+                    <li className="text-[#595959] text-[18px] lg:text-[18px] font-normal  mb-2 leading-loose lg:w-4/5"><span className="font-bold">Custom Talent Development:</span> We tailor training African professionals based on your specific job requirements.</li>
+                    <li className="text-[#595959] text-[18px] lg:text-[18px] font-normal  mb-2 leading-loose lg:w-4/5"><span className="font-bold">Scalable Workforce:</span> We provide talents ready to scale with your business, whether you need 10 or 100 employees.</li>
+                    <li className="text-[#595959] text-[18px] lg:text-[18px] font-normal  mb-2 leading-loose lg:w-4/5"><span className="font-bold">End-to-End Support:</span> We manage every aspect of talent acquisition and development, from recruitment to performance management.</li>
+                    <li className="text-[#595959] text-[18px] lg:text-[18px] font-normal  mb-2 leading-loose lg:w-4/5"><span className="font-bold">BPO Specialization:</span> BPO Specialization: Our talent is trained in essential BPO functions like customer service, tech support, and data entry</li>
       
        </ul>
        <a href="https://calendly.com/gideon-ibeabuchi-telesoftas/30min" target="_blank" className="flex  lg:items-center lg:justify-start md:items-center md:justify-start items-center justify-center ">
@@ -103,7 +102,7 @@ const HowWeWork = () => {
                   Empowering Africa’s Workforce, Elevating Your Business
                   </h2>
                   <h4 className="text-[#595959] text-[18px] lg:text-left text-center lg:text-[18px] font-normal mt-4 mb-8 leading-[30px] lg:w-4/5 w-full">
-                  Our <span className="font-bold">Talent Refinery</span> is a key part of our process, ensuring that every professional we provide is trained and reskilled to meet the highest global standards. We collaborate with international BPOs to design <span className="font-bold">custom training programs</span> that focus on your exact operational needs.
+                  Our <span className="font-bold">Talent Refinery</span> trains and reskill professionals to meet global standards, tailored to your BPOs needs.
                   </h4>
 
             
@@ -119,9 +118,9 @@ const HowWeWork = () => {
                  How We Do It:
                   </h4>
                   <ul className="list-disc mt-4 pl-8 lg:mb-0 md:mb-0 md:mb-8 mb-8">
-                  <li className="text-[#595959] text-[18px] lg:text-[18px] font-normal  mb-2 leading-loose lg:w-4/5"><span className="font-bold">Targeted Training Programs: </span> We start by understanding your operational requirements and develop training pathways to equip local talent with the skills needed.</li>
-                    <li className="text-[#595959] text-[18px] lg:text-[18px] font-normal  mb-2 leading-loose lg:w-4/5"><span className="font-bold">Job-Ready Talent:</span>   Our graduates are primed to deliver from day one, whether in customer service, data management, or technical roles.</li>
-                    <li className="text-[#595959] text-[18px] lg:text-[18px] font-normal  mb-2 leading-loose lg:w-4/5"><span className="font-bold">Continuous Upskilling:</span>  We offer ongoing training to ensure that your workforce evolves with industry trends and new technologies.</li>
+                  <li className="text-[#595959] text-[18px] lg:text-[18px] font-normal  mb-2 leading-loose lg:w-4/5"><span className="font-bold">Targeted Training Programs: </span> We access your operational needs and create training pathways for local talent.</li>
+                    <li className="text-[#595959] text-[18px] lg:text-[18px] font-normal  mb-2 leading-loose lg:w-4/5"><span className="font-bold">Job-Ready Talent:</span>   Our graduates are ready to perform from day one in customer service, data management, or technical roles.</li>
+                    <li className="text-[#595959] text-[18px] lg:text-[18px] font-normal  mb-2 leading-loose lg:w-4/5"><span className="font-bold">Continuous Upskilling:</span>  We provide ongoing training to keep your workforce aligned with industry trends and new technologies.</li>
                     </ul>
                     <a href="https://calendly.com/gideon-ibeabuchi-telesoftas/30min" target="_blank" className="flex  lg:items-center lg:justify-start md:items-center md:justify-start items-center justify-center ">
                  <button className="text-[14px] py-3 px-6 mt-8 bg-black text-white border" >
