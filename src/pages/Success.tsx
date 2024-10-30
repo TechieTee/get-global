@@ -37,10 +37,9 @@ const Success = () => {
                 Proven Results with International BPOs
             </h2>
             <h4 className="text-white text-center text-[18px] mb-4 font-normal leading-[28px] lg:leading-[33px] md:leading-[33px]">
-                In partnership with a leading CGI BPO company, GetGlobal successfully trained 12 Junior 3D artists to meet the client’s specific needs. Through a tailored program, these artists gained the technical and practical skills required in the fast-paced CGI industry. <br/> They are now transitioning into paid internships, ready to contribute directly to the client’s projects.
-                This marks a significant success in our Talent Refinery model, showcasing our ability to source, train, and deliver job-ready talent to global markets.
+            GetGlobal trained 12 Junior 3D artists for a CGI BPO, now transitioning to paid internships, ready to contribute.
             </h4>
-            <div className="">
+{/*             <div className="">
                 <div className="grid items-center justify-center grid-cols-1 md:grid-cols-2 lg:grid-cols-3 grid-cols-1 gap-[40px]">
                     {cards.map((card, index) => (
                         <div
@@ -58,7 +57,7 @@ const Success = () => {
                         </div>
                     ))}
                 </div>
-            </div>
+            </div> */}
             <h4 className="text-white lg:text-left text-center md:text-left text-[18px] mb-6 font-normal ">
                 Find Out What Others Are Saying: Testimonials From Our Community</h4>
             <div className=" flex flex-col md:flex-col lg:flex-row  items-center gap-4">
@@ -74,8 +73,8 @@ const Success = () => {
                 </div>
                 <div className="bg-[#E9EAEC] border border-[#E2E7ED] rounded-3xl p-7">
                     <p className="mb-8 leading-8 text-[#6C7275] text-[16px] font-normal">
-                        {`Our Digital Explorers team had a wonderful time in Lagos, or as the locals call it - Eko! Kristijanas Kaminskis, Egle Dmukauskaite, Aušrinė Vilčinskaitė, Berk Erdem, and Ieva Felman - our Baltic team, had a genuine and fun witted time with participants, throughout the DE II selection bootcamp, mixed with the local businesses and got the chance to experience Lagos from many different angles. 💻 🏖️🎨
-<br/>All of this couldn’t have happened without our trusty partner GetGlobal by TeleSoftas, who not only guided us through the busy streets of Lagos but made sure that the official kick-off of the Digital Explorers II journey in Nigeria went perfectly well! Kudos to Jane Odonwodo, Emmanuel Mimshach Obioha, Sandra Edeh, Ibeabuchi Gideon CSM®, Sharon-Rose Banjo-Ogunleye!`}
+                        {`Our Digital Explorers team had an amazing time in Lagos, or Eko! The Baltic team enjoyed the DE II BootCamp and local culture. 💻 🏖️🎨
+<br/>Huge thanks to GetGlobal for making the kick-off a success.`}
                     </p>
                     <span className="block text-sm text-[#6C7275] font-semibold">
                         – Digital Explorers Team - OSMOS
