@@ -9,7 +9,7 @@ const ViewPort = () => {
             Unlock Africa's Potential with GetGlobal: Your Gateway to High-Quality BPO Support
             </h2>
             <h4 className="text-[#595959] lg:text-left text-center text-[18px] font-normal  mt-4 mb-8 md:mb-12 leading-loose lg:pr-4 mx-auto lg:mx-0">
-            Leverage the power of Africa's emerging tech talent for your BPO operations. We provide custom workforce solutions that meet your business needs, driving efficiency and growth through expertly trained professionals.
+            Leverage Africa's tech talent for BPO. We offer custom workforce solutions to drive efficiency and growth.
      </h4>
             <div className="lg:flex lg:justify-start md:justify-center  flex-row gap-4 justify-center w-full">
               <div className="mb-2">
