@@ -58,7 +58,7 @@ const Success = () => {
                     ))}
                 </div>
             </div> */}
-            <h4 className="text-white lg:text-left text-center md:text-left text-[18px] mb-6 font-normal ">
+            <h4 className="text-white  text-center text-[18px] mb-6 font-normal ">
                 Find Out What Others Are Saying: Testimonials From Our Community</h4>
             <div className=" flex flex-col md:flex-col lg:flex-row  items-center gap-4">
                 <div className="bg-[#E9EAEC] border border-[#E2E7ED] rounded-3xl p-7">
